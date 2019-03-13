@@ -1,0 +1,25 @@
+# jemdoc: menu{MENU}{index.html}
+= Vishal Jain
+
+~~~
+{}{img_left}{vishal.jpg}{alt text}{326.8px}{326.4px}{}
+Vishal Jain \n
+M.Sc Student \n 
+[https://www.cs.mcgill.ca/ School of Computer Science ] \n
+[https://www.mcgill.ca/ McGill University]  \n
+Contact: [vishal.jain@mail.mcgill.ca Email], [https://www.linkedin.com/in/jvishal3991/ Linkedin], [https://github.com/vishaljain3991 Github]
+~~~
+
+== Short Bio 
+I am a M.Sc student at McGill University. In Montreal, I am affliated with [https://mila.quebec/ Mila] and have been working with [http://www.marcgbellemare.info/ Marc Bellemare] and [https://www.cs.mcgill.ca/~dprecup/ Doina Precup]. I got my Bachelors degree in Mathematics and Computing from IIT Guwahati.
+
+== Current Research
+I have been actively working on creating intelligent agents for playing text-adventure games. Also known as [https://en.wikipedia.org/wiki/Interactive_fiction Interactive Fiction] (IF) games, these games are fun to play and quite challenging for an agent because it needs to deal with [http://www.cs.cmu.edu/~ggordon/780-fall07/lectures/POMDP_lecture.pdf partial observaility], large action space and sparse rewards. More info will be out soon! Contact me if you would like to know more.
+
+== Education 
+- M.Sc., School of Computer Science, McGill University, Montreal, QC Canada, Sep. 2017 - Present
+- B.Tech., Department of Mathematics, Indian Institute of Technology, Guwahati, India, Aug. 2011 - June 2015
+== Research Interests 
+- Deep Reinforcement Learning
+- Machine Learning
+- Natural Language Processing
